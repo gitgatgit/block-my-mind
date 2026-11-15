@@ -1,0 +1,8 @@
+# Ignore secret keys and environment variables
+.env
+
+whitelist.txt
+thawed.txt
+frozen_packages.txt
+freeze_failed.txt
+categories.txt
